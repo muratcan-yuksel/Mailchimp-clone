@@ -33,6 +33,14 @@ body, html {
     width:85%;
     height: 3em;
 }
+#username{
+    width:85%;
+    height: 3em;
+}
+#password{
+    width:85%;
+    height: 3em;
+}
 .button{
     
     margin-left:15%;
