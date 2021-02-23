@@ -1,0 +1,13 @@
+body{
+    background-color:#ffe01b;
+}
+#flower{
+
+    position:relative;
+}
+
+#flowers{
+    position: absolute;
+    right:0;
+    clip: rect(0px,400px,1500px,0px);
+}
