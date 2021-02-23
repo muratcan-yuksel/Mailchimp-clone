@@ -1,18 +1,18 @@
-body{
+body, html {
+    height: 100%;
     background-color:#ffe01b;
-}
-#flower{
-
-    position:relative;
-}
-
+  }
 #flowers{
     width: 25vw; /* width of container */
     height: 100vh; /* height of container */
     object-fit: cover;
     object-position: 0% 10%; /* try 20px 10px */ 
     position: absolute;
-    right:0;
-   
+    right:0;  
 }
-
+.form{
+    
+    background-color: white;
+    width:80vw;
+    height:100vh;
+}
