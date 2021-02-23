@@ -10,8 +10,9 @@ body, html {
     position: absolute;
     right:0;  
 }
-.form{
-    
+.whiteSpace{
+   display:flex;
+   flex-direction: column;
     background-color: white;
     width:80vw;
     height:100vh;
