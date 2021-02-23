@@ -22,7 +22,7 @@
             <input type="text" name="password" id="password">
         </div>
         <div class="list">
-            <ul>
+            <ul id="firstList">
                 <li>One lowercase character</li>
                 <li>One uppercase character</li>
                 <li>One number</li>
@@ -32,9 +32,17 @@
                 <li>8 characters minimum</li>
             </ul>
         </div>
-        <div class="button">
-            <button id="signUp">Sign Up</button>
-            <input id="input" type="checkbox" name="consent" value="sayNo"> I don't want to receive emails about new Mailchimp products, best practices, or special offers.
+            <div class="button">
+                <div class="signUp">
+                    <button id="signUp">Sign Up</button>
+                </div>
+                <div class="input">
+                    <input id="input" type="checkbox" name="consent" value="sayNo"> I don't want to receive emails about new Mailchimp products, best practices, or special offers.
+            </div>
+        </div>
+        <div class="disclaimer">
+            <p>By clicking the "Sign Up" button, you are creating a Mailchimp account, and you agree to Mailchimp's Terms of Use and Privacy Policy.</p>
+
         </div>
    
     </section>
