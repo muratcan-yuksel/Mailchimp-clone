@@ -1,5 +1,5 @@
 body, html {
-    
+    font-family: 'Courier New', monospace;
     background-color:#ffe01b;
   }
 #flowers{
@@ -16,6 +16,14 @@ body, html {
     width:80vw;
     height:100%;
     
+}
+#welcome{
+    margin-top:3em;
+    font-size:2.4em;
+    font-weight: 200;
+}
+#firstPara{
+    margin-bottom: 2em;
 }
 .form{
     display:flex;
@@ -37,6 +45,7 @@ body, html {
     width:85%;
     height: 3em;
     margin-bottom: 2em;
+   
 }
 #username{
     width:85%;
