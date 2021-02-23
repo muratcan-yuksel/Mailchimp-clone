@@ -32,14 +32,17 @@ body, html {
 #email{
     width:85%;
     height: 3em;
+    margin-bottom: 2em;
 }
 #username{
     width:85%;
     height: 3em;
+    margin-bottom: 2em;
 }
 #password{
     width:85%;
     height: 3em;
+    margin-bottom: 2em;
 }
 .button{
     
