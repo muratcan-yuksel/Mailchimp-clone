@@ -70,3 +70,11 @@ button color
     margin-left:15%;
     margin-right:20%;
 }
+#footnote{
+    margin-top:3em;
+    font-size:0.9em;
+    color:gray;
+}
+li{
+    margin-top:0.5em;
+}
